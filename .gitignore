@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch / model checkpoints
+*.pth
+checkpoints/
+checkpoints_new/
+checkpoints_new_b4/
+
+# Logs and outputs
+*.log
+*.csv
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+
+# Byte-compiled
+*.pyc
+
+# Ignore dataset caches
+.cache/
