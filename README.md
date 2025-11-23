@@ -47,8 +47,5 @@ Model weights (`*.pth`) are present in the `checkpoints` folders for convenience
 - Add a `README` section with example outputs or sample images if you want to document expected predictions.
 - Add GitHub Actions for CI (e.g., linting, basic unit tests).
 
-**License & Contribution**
-This repository currently has no license file. Add a `LICENSE` if you want to allow reuse. Contributions welcome — open an issue or a PR on GitHub.
-
 **Contact**
 Repo: https://github.com/Ritesh-1127/Mineral_classifier
